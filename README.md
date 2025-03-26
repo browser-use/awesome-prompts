@@ -1093,7 +1093,7 @@ Contributions to this repository are welcome! Please follow these guidelines:
 2. **Categories**: Add to existing categories or propose new ones with at least 3 examples
 3. **Quality**: Ensure prompts are specific, actionable, and well-structured
 4. **Testing**: Verify that prompts work as expected with Browser-Use before submitting
-5. **Descriptions**: Include a brief description of what the prompt accomplishes
+5. **Descriptions**: Include a brief description of what the prompt accomplishes + a gif or screenshot if possible
 
 To contribute:
 

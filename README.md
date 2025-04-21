@@ -314,6 +314,7 @@ For each listing, extract:
 4. Description summary (1–2 sentences max)
 5. Direct link to the listing 
 Output the results in a proper report format of each property.
+If an attribute is not available , dont include it in the report.
 Give report of atleast 3 properties.
 Prioritize properties with recent listings, discounts, or high photo counts.
 

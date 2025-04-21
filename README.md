@@ -297,6 +297,28 @@ For each specification category:
 Note any discrepancies between the manufacturer's specifications and those listed by retailers. Format the information in a structured, easily readable format.
 ```
 
+### Real Estate Listings Extraction
+
+```
+Search for real estate listings in {city/neighborhood} with the following filters:
+- Price range: {min} to {max}
+- Property type: {type}
+- Minimum bedrooms: {x}
+- Listed within the past 14 days
+
+For each listing, extract:
+1. Full address and main photo
+2. Price, square footage, and price per sqft (if available)
+3. Number of beds, baths, and property highlights
+4. Description summary (1–2 sentences max)
+5. Agent or contact details, including email or phone
+6. Direct link to the listing and any virtual tour
+
+Output the results in a clean, sortable table.
+Prioritize properties with recent listings, discounts, or high photo counts.
+
+```
+
 ### Competitor Analysis Extraction
 
 ```

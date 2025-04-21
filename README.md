@@ -226,6 +226,7 @@ Steps:
 2. Extract post titles, meta descriptions, and main keywords used
 3. Note article lengths and content structure
 4. Identify gaps or opportunities for differentiation
+5. Show a detailed report of the blogs showing the title, meta description, main keywords used, article length, and content structure.
 
 ```
 
@@ -304,15 +305,14 @@ Search for real estate listings in {city/neighborhood} with the following filter
 - Price range: {min} to {max}
 - Property type: {type}
 - Minimum bedrooms: {x}
-- Listed within the past 14 days
+- Listed within the past {y} days
 
 For each listing, extract:
 1. Full address and main photo
 2. Price, square footage, and price per sqft (if available)
 3. Number of beds, baths, and property highlights
 4. Description summary (1–2 sentences max)
-5. Agent or contact details, including email or phone
-6. Direct link to the listing and any virtual tour
+5. Direct link to the listing and any virtual tour
 
 Output the results in a clean, sortable table.
 Prioritize properties with recent listings, discounts, or high photo counts.

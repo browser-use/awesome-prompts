@@ -13,7 +13,7 @@ A curated collection of effective prompts for Browser-Use. This repository aims 
 Thanks to [@metehan777](https://github.com/metehan777) for the initial collection of prompts.
 
 ## Table of Contents
-
+ 
 1. [Introduction](#introduction)
 2. [Web Research Prompts](#web-research-prompts)
 3. [E-commerce Prompts](#e-commerce-prompts)

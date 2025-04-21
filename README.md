@@ -13,7 +13,7 @@ A curated collection of effective prompts for Browser-Use. This repository aims 
 Thanks to [@metehan777](https://github.com/metehan777) for the initial collection of prompts.
 
 ## Table of Contents
- 
+
 1. [Introduction](#introduction)
 2. [Web Research Prompts](#web-research-prompts)
 3. [E-commerce Prompts](#e-commerce-prompts)
@@ -214,6 +214,19 @@ Go to {email_platform} and draft a newsletter for {business} with the following 
 7. Footer with social media links and unsubscribe option
 
 The newsletter should maintain {brand}'s voice, which is {brand_voice_description}. Include appropriate heading styles, bullet points, and suggested image placements.
+```
+
+### SEO Blog Inspiration
+
+```
+Find the top-ranking blog posts on {topic} to inspire a new SEO-optimized article.
+
+Steps:
+1. Search for blog posts on Google and filter by past year
+2. Extract post titles, meta descriptions, and main keywords used
+3. Note article lengths and content structure
+4. Identify gaps or opportunities for differentiation
+
 ```
 
 ### Presentation Creation

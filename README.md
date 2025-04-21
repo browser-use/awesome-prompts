@@ -314,7 +314,7 @@ For each listing, extract:
 4. Description summary (1–2 sentences max)
 5. Direct link to the listing and any virtual tour
 
-Output the results in a clean, sortable table.
+Output the results in a proper report format of each property.
 Prioritize properties with recent listings, discounts, or high photo counts.
 
 ```

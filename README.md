@@ -312,9 +312,9 @@ For each listing, extract:
 2. Price, square footage, and price per sqft (if available)
 3. Number of beds, baths, and property highlights
 4. Description summary (1–2 sentences max)
-5. Direct link to the listing and any virtual tour
-
+5. Direct link to the listing 
 Output the results in a proper report format of each property.
+Give report of atleast 3 properties.
 Prioritize properties with recent listings, discounts, or high photo counts.
 
 ```

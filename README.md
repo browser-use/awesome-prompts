@@ -91,6 +91,18 @@ Verify the following claim: "{claim}".
 Include direct quotes and links to support your assessment.
 ```
 
+### Industry Trend Analysis
+
+```
+Conduct an analysis of emerging trends in the {industry_name} industry for {current_year}:
+
+1. Visit industry-specific blogs and market research sites.
+2. List 3-5 key trends along with brief descriptions and expected market impact.
+3. Provide recent examples or case studies of companies embracing these trends.
+
+Compile findings into an easily readable summary with clear sources.
+```
+
 ## E-commerce Prompts
 
 ### Product Price Comparison

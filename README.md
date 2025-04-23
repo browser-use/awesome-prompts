@@ -127,6 +127,49 @@ Once all items are in the cart:
 - Proceed to checkout but stop before payment
 ```
 
+### Return Policy Comparision
+
+```
+You are tasked with analyzing and comparing the return policies for the product {product_name} across the following three retailers: {retailer1}, {retailer2}, and {retailer3}. The objective is to determine which retailer offers the most favorable and customer-friendly return policy.
+
+Follow these steps to conduct the analysis:
+
+1. For each retailer, visit their official website and:
+   - Search for the product: {product_name}
+   - Navigate to the product detail page.
+   - Locate the "Return Policy" section or related information:
+     - If a return policy button or link is present on the product page, click it and review the contents.
+     - If there is no direct link, scroll down the page to find relevant information under sections such as “Customer Q&A,” “Policies,” or “Product Details.”
+
+2. For each retailer, research and document the following:
+   - Return window duration (in days)
+   - Restocking fees (percentage or flat fee, if applicable)
+   - Condition requirements for eligible returns (e.g., original packaging, unused)
+   - Return shipping process and cost (whether the customer or retailer pays; label availability)
+   - Refund processing time (number of days after the item is received)
+   - Any notable exceptions or limitations (e.g., final sale items, opened products)
+
+3. Write a detailed comparison report discussing the return policy of each retailer in a clear and descriptive manner, using paragraphs to present the findings for each retailer.
+
+4. Based on your findings, identify and recommend the retailer that provides the best return policy. Consider the following criteria:
+   - Longest return window
+   - Lowest or no restocking fees
+   - Most flexible condition requirements
+   - Free or easy return shipping process
+   - Fastest refund turnaround time
+   - Fewest restrictions or limitations
+
+5. Explain in detail why this retailer’s policy is superior. Clearly describe how it compares to the other two retailers and why it is more customer-friendly. Be sure to mention any relevant exceptions or caveats that could impact the decision.
+
+6. Provide the official return policy page URL for each retailer so the information can be independently verified.
+
+7. Format your final recommendation clearly as follows:
+
+Best Return Policy: {Retailer Name}  
+Reason: {Detailed explanation comparing all key return policy elements and justifying why this retailer offers the most advantageous terms}
+
+```
+
 ### Deal Finder
 
 ```

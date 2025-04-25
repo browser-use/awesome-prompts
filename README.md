@@ -444,6 +444,50 @@ For each post:
 Use our brand voice guide which emphasizes {tone_description} and avoids {prohibited_content}.
 ```
 
+### Trend-Aligned Brand Collaboration Pitch
+
+```
+Objective: Craft a personalized outreach message to {brand_name} proposing a promotion partnership focused on their latest {product_line/trend}, leveraging my influencer profile strengths.  
+my influencer profile is : {your_profile}
+Step 1: Research & Alignment  
+1. Analyze {brand_name}'s:  
+   - Recent product launches/trends (last 3 months)  
+   - Current marketing campaigns/hashtags  
+   - Competitor collaborations in {industry}  
+
+2. Review my influencer profile:  
+   - Audience demographics: {age, gender, location}  
+   - Top-performing content formats: {e.g., reels, unboxings, tutorials}  
+   - Engagement metrics: {avg. rate%, follower count}  
+   - Past successful collabs: {brand examples + results}  
+
+Step 2: Customized Pitch Structure  
+Subject Line:  
+"Collaboration Idea: [Creative Hook Tied to Their Trend]"  
+
+Body Template:  
+1. Opener:  
+   - Praise their innovation: *"Loved your new {product/trend}—especially how it tackles {specific audience pain point}!"*  
+
+2. Strategic Fit:  
+   - *"My {niche} audience aligns perfectly with your target {demographic}—see attached profile highlights."*  
+   - Data point: *"My last {similar_product} post drove {X} conversions for {competitor}."*  
+
+3. Proposal:  
+   - Content format: *"{Video style} showcasing {trend} through {unique angle}"*  
+   - Timeline: *"Launch during {their_campaign/seasonal moment}"*  
+   - Callout: *"I can amplify your {hashtag/challenge} with authentic UGC."*  
+
+4. CTA:  
+   - *"Let’s discuss goals—I’ve attached a media kit with rates and examples."*  
+
+Step 3: Deliverables  
+- Draft email + LinkedIn DM version  
+- 3 hook options for subject lines  
+- Performance screenshots to attach  
+- Follow-up schedule (3-5-7 day sequence)  
+```
+
 ### Social Listening and Response
 
 ```
@@ -1049,6 +1093,67 @@ Design and plan a comprehensive product launch campaign for {product_name} targe
    - Schedule campaign performance review meetings
 
 Compile all elements into a master launch plan document with timelines, responsibilities, and budget allocations for each component.
+```
+
+## Learning & Education Prompts
+
+### Online Course research 
+
+```
+Research and compare the best online courses for {topic} across online course platforms doing research for which course is best.
+
+For each platform:
+1. Search for the top 3 highest-rated courses on {topic}.
+2. For each course, extract:
+   - Title and instructor/organization
+   - Price (including discounts or subscription models)
+   - Duration (hours/weeks)
+   - Average rating (out of 5) and number of reviews
+   - Key features (certificate, projects, quizzes, etc.)
+   - Prerequisites (if any)
+3. Filter out courses with ratings below {min_rating, e.g., 4.0} or prices above {max_budget}.
+4. Highlight any:
+   - Free audit options
+   - Money-back guarantees
+   - Limited-time promotions
+
+Output: A comparison table ranking the top 5 courses by value (rating vs. cost), with links.
+```
+
+### Study Guide Generation
+
+```
+Create a detailed study guide for {exam/subject} covering the top 5 resources.
+
+1. Find:
+   - 1 textbook (with key chapters summarized)
+   - 2 video lecture series (YouTube, Khan Academy, etc.)
+   - 1 practice problem source (websites, apps)
+   - 1 community forum (Reddit, Discord) for Q&A
+2. For each resource:
+   - Include links, cost, and time commitment.
+   - Note strengths (e.g., "best for visual learners").
+3. Organize by study phase (e.g., "Basics," "Practice," "Revision").
+
+Output: A weekly study plan with resource links.
+```
+
+### Language Learning Plan
+
+```Design a 30-day {language} learning plan using free/paid tools.
+
+1. Research:
+   - Apps to stsudy the language from
+   - YouTube channels or podcasts
+   - Workbooks (PDFs or physical)
+   - Tutoring platforms to practise the language
+2. Compare:
+   - Cost (free tier vs. premium)
+   - Focus area (vocabulary, grammar, conversation)
+   - Time/day required.
+3. Exclude resources with consistently poor reviews.
+
+Output: A daily schedule mixing apps (10 mins), videos (15 mins), and weekly tutor sessions.
 ```
 
 ## Prompt Engineering Best Practices

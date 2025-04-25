@@ -1051,6 +1051,67 @@ Design and plan a comprehensive product launch campaign for {product_name} targe
 Compile all elements into a master launch plan document with timelines, responsibilities, and budget allocations for each component.
 ```
 
+## Learning & Education Prompts
+
+### Online Course research 
+
+```
+Research and compare the best online courses for {topic} across online course platforms doing research for which course is best.
+
+For each platform:
+1. Search for the top 3 highest-rated courses on {topic}.
+2. For each course, extract:
+   - Title and instructor/organization
+   - Price (including discounts or subscription models)
+   - Duration (hours/weeks)
+   - Average rating (out of 5) and number of reviews
+   - Key features (certificate, projects, quizzes, etc.)
+   - Prerequisites (if any)
+3. Filter out courses with ratings below {min_rating, e.g., 4.0} or prices above {max_budget}.
+4. Highlight any:
+   - Free audit options
+   - Money-back guarantees
+   - Limited-time promotions
+
+Output: A comparison table ranking the top 5 courses by value (rating vs. cost), with links.
+```
+
+### Study Guide Generation
+
+```
+Create a detailed study guide for {exam/subject} covering the top 5 resources.
+
+1. Find:
+   - 1 textbook (with key chapters summarized)
+   - 2 video lecture series (YouTube, Khan Academy, etc.)
+   - 1 practice problem source (websites, apps)
+   - 1 community forum (Reddit, Discord) for Q&A
+2. For each resource:
+   - Include links, cost, and time commitment.
+   - Note strengths (e.g., "best for visual learners").
+3. Organize by study phase (e.g., "Basics," "Practice," "Revision").
+
+Output: A weekly study plan with resource links.
+```
+
+### Language Learning Plan
+
+```Design a 30-day {language} learning plan using free/paid tools.
+
+1. Research:
+   - Apps to stsudy the language from
+   - YouTube channels or podcasts
+   - Workbooks (PDFs or physical)
+   - Tutoring platforms to practise the language
+2. Compare:
+   - Cost (free tier vs. premium)
+   - Focus area (vocabulary, grammar, conversation)
+   - Time/day required.
+3. Exclude resources with consistently poor reviews.
+
+Output: A daily schedule mixing apps (10 mins), videos (15 mins), and weekly tutor sessions.
+```
+
 ## Prompt Engineering Best Practices
 
 ### Structure

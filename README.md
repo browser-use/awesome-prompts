@@ -444,50 +444,6 @@ For each post:
 Use our brand voice guide which emphasizes {tone_description} and avoids {prohibited_content}.
 ```
 
-### Trend-Aligned Brand Collaboration Pitch
-
-```
-Objective: Craft a personalized outreach message to {brand_name} proposing a promotion partnership focused on their latest {product_line/trend}, leveraging my influencer profile strengths.  
-my influencer profile is : {your_profile}
-Step 1: Research & Alignment  
-1. Analyze {brand_name}'s:  
-   - Recent product launches/trends (last 3 months)  
-   - Current marketing campaigns/hashtags  
-   - Competitor collaborations in {industry}  
-
-2. Review my influencer profile:  
-   - Audience demographics: {age, gender, location}  
-   - Top-performing content formats: {e.g., reels, unboxings, tutorials}  
-   - Engagement metrics: {avg. rate%, follower count}  
-   - Past successful collabs: {brand examples + results}  
-
-Step 2: Customized Pitch Structure  
-Subject Line:  
-"Collaboration Idea: [Creative Hook Tied to Their Trend]"  
-
-Body Template:  
-1. Opener:  
-   - Praise their innovation: *"Loved your new {product/trend}—especially how it tackles {specific audience pain point}!"*  
-
-2. Strategic Fit:  
-   - *"My {niche} audience aligns perfectly with your target {demographic}—see attached profile highlights."*  
-   - Data point: *"My last {similar_product} post drove {X} conversions for {competitor}."*  
-
-3. Proposal:  
-   - Content format: *"{Video style} showcasing {trend} through {unique angle}"*  
-   - Timeline: *"Launch during {their_campaign/seasonal moment}"*  
-   - Callout: *"I can amplify your {hashtag/challenge} with authentic UGC."*  
-
-4. CTA:  
-   - *"Let’s discuss goals—I’ve attached a media kit with rates and examples."*  
-
-Step 3: Deliverables  
-- Draft email + LinkedIn DM version  
-- 3 hook options for subject lines  
-- Performance screenshots to attach  
-- Follow-up schedule (3-5-7 day sequence)  
-```
-
 ### Social Listening and Response
 
 ```

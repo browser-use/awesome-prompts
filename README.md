@@ -229,6 +229,10 @@ Steps:
 5. Show a detailed report of the blogs showing the title, meta description, main keywords used, article length, and content structure.
 
 ```
+#### AGENT DEMO 
+`{topic}` : "MCPs and Tool Calling"
+![til](./demo_gifs/seo_demo_gif.gif)
+
 
 ### Presentation Creation
 
@@ -319,6 +323,15 @@ Give report of atleast 3 properties.
 Prioritize properties with recent listings, discounts, or high photo counts.
 
 ```
+
+#### AGENT DEMO
+`{city/neighborhood}` : London near Heathrow Airport
+`{min}` : £150,000  
+`{max}` : £800,000
+`{type}` : Apartment
+`{x}` : 2
+`{y}` : 30-60
+![til](./demo_gifs/real_estate_gif.gif)
 
 ### Competitor Analysis Extraction
 

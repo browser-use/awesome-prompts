@@ -216,6 +216,24 @@ Go to {email_platform} and draft a newsletter for {business} with the following 
 The newsletter should maintain {brand}'s voice, which is {brand_voice_description}. Include appropriate heading styles, bullet points, and suggested image placements.
 ```
 
+### SEO Blog Inspiration
+
+```
+Find the top-ranking blog posts on {topic} to inspire a new SEO-optimized article.
+
+Steps:
+1. Search for blog posts on Google and filter by past year
+2. Extract post titles, meta descriptions, and main keywords used
+3. Note article lengths and content structure
+4. Identify gaps or opportunities for differentiation
+5. Show a detailed report of the blogs showing the title, meta description, main keywords used, article length, and content structure.
+
+```
+#### AGENT DEMO 
+`{topic}` : "MCPs and Tool Calling"
+![til](./static/seo_demo_gif.gif)
+
+
 ### Presentation Creation
 
 ```
@@ -283,6 +301,37 @@ For each specification category:
 
 Note any discrepancies between the manufacturer's specifications and those listed by retailers. Format the information in a structured, easily readable format.
 ```
+
+### Real Estate Listings Extraction
+
+```
+Search for real estate listings in {city/neighborhood} with the following filters:
+- Price range: {min} to {max}
+- Property type: {type}
+- Minimum bedrooms: {x}
+- Listed within the past {y} days
+
+For each listing, extract:
+1. Full address and main photo
+2. Price, square footage, and price per sqft (if available)
+3. Number of beds, baths, and property highlights
+4. Description summary (1–2 sentences max)
+5. Direct link to the listing 
+Output the results in a proper report format of each property.
+If an attribute is not available , dont include it in the report.
+Give report of atleast 3 properties.
+Prioritize properties with recent listings, discounts, or high photo counts.
+
+```
+
+#### AGENT DEMO
+`{city/neighborhood}` : London near Heathrow Airport
+`{min}` : £150,000  
+`{max}` : £800,000
+`{type}` : Apartment
+`{x}` : 2
+`{y}` : 30-60
+![til](./static/real_estate_gif.gif)
 
 ### Competitor Analysis Extraction
 

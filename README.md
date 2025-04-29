@@ -231,7 +231,7 @@ Steps:
 ```
 #### AGENT DEMO 
 `{topic}` : "MCPs and Tool Calling"
-![til](./demo_gifs/seo_demo_gif.gif)
+![til](./static/seo_demo_gif.gif)
 
 
 ### Presentation Creation
@@ -331,7 +331,7 @@ Prioritize properties with recent listings, discounts, or high photo counts.
 `{type}` : Apartment
 `{x}` : 2
 `{y}` : 30-60
-![til](./demo_gifs/real_estate_gif.gif)
+![til](./static/real_estate_gif.gif)
 
 ### Competitor Analysis Extraction
 

@@ -302,7 +302,7 @@ Compile the information in a structured format that allows for easy comparison a
 ```
 
 ### Crypto Data Extraction
-
+![maindemocrypto](https://github.com/user-attachments/assets/a30568f0-4de6-465b-9ae0-2a44390cfaf0)
 ```
     Go to https://coinmarketcap.com/trending-cryptocurrencies/
 

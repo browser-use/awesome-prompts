@@ -235,6 +235,34 @@ The presentation should include:
 Use a professional template with {brand_colors}. Each slide should follow the 6x6 rule (maximum 6 bullet points, maximum 6 words per bullet). Include speaker notes with expanded information for each slide.
 ```
 
+### Chess Game Automation
+![chessDemo](https://github.com/user-attachments/assets/db33799a-23f4-45e2-b557-7917aa8472a9)
+```
+Go to lichess.org and play a chess game. Follow these steps:
+1. Navigate to lichess.org
+2. Click on "Sign in" at the top right
+3. Log in with these credentials:
+   - Username: YOURUSERNAME
+   - Password: YOURPASSWORD
+4. After logging in, click on "Play" at the top and then "Computer" to play against AI
+5. Choose the easiest difficulty level (Stockfish level 1)
+6. You will play as white. Make moves by:
+   - Clicking on a piece and then its destination square
+   - OR if available, type algebraic notation like "e4" or "Nf3" in the move input box
+Here are some good opening moves you can try:
+- "e4" (King's Pawn Opening)
+- "d4" (Queen's Pawn Opening)
+- "Nf3" (Réti Opening)
+Continue making logical moves according to chess principles:
+- Control the center
+- Develop your pieces (knights and bishops first)
+- Castle your king to safety
+- Connect your rooks
+- Avoid unnecessary pawn moves
+Play at least 100 moves before concluding the game.
+If you see an option to input moves by keyboard, feel free to use it. Otherwise, click the pieces to move them.
+```
+
 ## Data Extraction Prompts
 
 ### Tabular Data Extraction

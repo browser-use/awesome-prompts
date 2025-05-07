@@ -601,6 +601,20 @@ Help me organize my digital information and files to create a more efficient sys
 7. Suggest tools or automation that could help maintain this system
 ```
 
+### Hacker News Show Top 10
+![final](https://github.com/user-attachments/assets/82bd0fb0-5834-4e56-99f5-58704d6e4dc8)
+
+```
+Go to Hacker News Show HN section (https://news.ycombinator.com/show).
+
+Collect the top 10 Show HN posts. For each post:
+1. Get the title and URL
+2. Visit the URL
+3. Create exactly 3 bullet points that summarize the key points of the page
+
+Format the output according to the Pydantic model structure.
+```
+
 ## Form Filling Prompts
 
 ### Account Registration

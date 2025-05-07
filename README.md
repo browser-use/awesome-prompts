@@ -602,6 +602,7 @@ Help me organize my digital information and files to create a more efficient sys
 ```
 
 ### Hacker News Show Top 10
+![final](https://github.com/user-attachments/assets/82bd0fb0-5834-4e56-99f5-58704d6e4dc8)
 
 ```
 Go to Hacker News Show HN section (https://news.ycombinator.com/show).

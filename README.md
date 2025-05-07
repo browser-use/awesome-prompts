@@ -236,7 +236,7 @@ Use a professional template with {brand_colors}. Each slide should follow the 6x
 ```
 
 ### Chess Game Automation
-
+![chessDemo](https://github.com/user-attachments/assets/db33799a-23f4-45e2-b557-7917aa8472a9)
 ```
 Go to lichess.org and play a chess game. Follow these steps:
 1. Navigate to lichess.org

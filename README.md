@@ -301,6 +301,22 @@ For each competitor:
 Compile the information in a structured format that allows for easy comparison across all competitors.
 ```
 
+### Crypto Data Extraction
+![maindemocrypto](https://github.com/user-attachments/assets/a30568f0-4de6-465b-9ae0-2a44390cfaf0)
+```
+    Go to https://coinmarketcap.com/trending-cryptocurrencies/
+
+    Extract the trending cryptocurrencies table data including:
+    - Name
+    - Symbol
+    - Price
+    - 24h percent change (convert to numbers, not strings with %)
+    - Market cap
+    - 24h volume
+    
+    Format the data according to the CryptoData model with a list of cryptocurrencies.
+```
+
 ## Job Application Prompts
 
 ### Job Search and Application

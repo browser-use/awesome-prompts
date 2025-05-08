@@ -235,6 +235,29 @@ The presentation should include:
 Use a professional template with {brand_colors}. Each slide should follow the 6x6 rule (maximum 6 bullet points, maximum 6 words per bullet). Include speaker notes with expanded information for each slide.
 ```
 
+### Sound Download
+
+```
+Go to https://soundgator.com/
+
+    Search for "firecracker" sounds.
+    
+    Find 3 different firecracker sounds and download them.
+    For each sound:
+    1. Click on the sound title to go to its detail page
+    2. Click the "Free Download" button 
+    3. On the download page, download the MP3 version (not WAV)
+    4. After each download completes, wait 5 seconds, then go back to search results to find the next sound
+    5. Record the sound title and download status
+    
+    IMPORTANT: After clicking a download button, wait at least 5 seconds for the download to start.
+    
+    The files will be downloaded to your default downloads folder. After downloading,
+    move them to this directory: {download_path}
+
+Format the data according to the SoundData model with a list of sound files.
+```
+
 ## Data Extraction Prompts
 
 ### Tabular Data Extraction

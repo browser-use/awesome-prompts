@@ -236,6 +236,7 @@ Use a professional template with {brand_colors}. Each slide should follow the 6x
 ```
 
 ### Sound Download
+![mainSoundDemo](https://github.com/user-attachments/assets/1038fefd-bf16-4e96-955b-25bb5002e6e0)
 
 ```
 Go to https://soundgator.com/

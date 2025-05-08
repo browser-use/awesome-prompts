@@ -240,9 +240,9 @@ Use a professional template with {brand_colors}. Each slide should follow the 6x
 ```
 Go to https://soundgator.com/
 
-    Search for "firecracker" sounds.
+    Search for "{search_query}" sounds.
     
-    Find 3 different firecracker sounds and download them.
+    Find 3 different "{search_query}" sounds and download them.
     For each sound:
     1. Click on the sound title to go to its detail page
     2. Click the "Free Download" button 

@@ -301,6 +301,39 @@ For each competitor:
 Compile the information in a structured format that allows for easy comparison across all competitors.
 ```
 
+### Github Trending Extraction
+![mainGithubTRENDING20s](https://github.com/user-attachments/assets/605d0b69-8826-4f0e-975a-9ee33a63af51)
+```
+    Perform the following:
+    
+    1. Collect detailed information about the top 10 trending repositories:
+       - Repository name
+       - Description
+       - Number of stars
+       - Repository link
+       - Key technologies used (look at languages shown, README content, etc.)
+    
+    2. For each repository, click through to examine:
+       - README content to understand what the project does
+       - Key technologies and frameworks used
+       - The domain or field the project addresses (AI, web development, etc.)
+       - What problem it solves or innovation it brings
+    
+    3. After analyzing ALL repositories, identify common themes, technologies, and trends.
+    
+    4. Create 10 DIFFERENT tweet-sized summaries (maximum 280 characters each) that:
+       - Each focus on a different aspect or trend you discovered
+       - Some should highlight specific repositories
+       - Some should discuss technology trends overall
+       - Some should mention surprising or interesting findings
+       - All should include relevant hashtags
+       
+    5. Format your output as requested by the output model, with:
+       - The repositories data in the 'repos' field
+       - The 10 tweet summaries in the 'summaries' field as objects with 'text' and 'hashtags' properties
+       - Today's date in the 'date' field
+```
+
 ## Job Application Prompts
 
 ### Job Search and Application

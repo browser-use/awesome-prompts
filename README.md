@@ -301,6 +301,26 @@ For each competitor:
 Compile the information in a structured format that allows for easy comparison across all competitors.
 ```
 
+
+### Gap Data Extraction
+![gapMain](https://github.com/user-attachments/assets/10146881-fe91-410a-9997-a8939c7387b4)
+
+```
+Collect information about products from their catalog:
+
+1. Navigate to the Gap website homepage
+2. Handle any cookie consent or popup notifications if they appear
+3. Go to the Men's section
+4. Choose a category like "T-shirts" or "Jeans"
+5. Extract details for at least 5 products including:
+   - Product name
+   - Price
+   - Product URL
+   - Category
+6. Structure the data in the specified format
+
+If you encounter any rate limiting or errors, try refreshing the page or navigating to a different section.
+```
 ## Job Application Prompts
 
 ### Job Search and Application

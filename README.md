@@ -1084,6 +1084,13 @@ Compile all elements into a master launch plan document with timelines, responsi
 - **Focus on value-add activities**: Emphasize where the agent can provide the most value
 - **Minimize unnecessary steps**: Avoid redundant or low-value activities
 - **Batch similar operations**: Group related tasks for efficiency
+  
+### Iteration and Refinement
+
+- **Iterate from simple to complex**: Start with basic prompts, then layer in details.
+- **Experiment with phrasing**: Test different wording, keywords, and structures.
+- **Critically review results**: Analyze outputs to pinpoint prompt improvements.
+- **Refine from mistakes**: Understand and learn from ineffective prompts.
 
 ## Contributing
 
